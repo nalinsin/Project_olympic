@@ -1,6 +1,6 @@
 
 
-###### I have a sample file "olympix_data.csv" at location "home/user/Desktop/test_data" #################################
+###### I have a sample file "olympix_data.csv" at in my local machine at location "home/user/Desktop/test_data" #################################
 ###### I will create a sample table 'olympic' and load the data from the sample file into this mysql table ##########
 
 
