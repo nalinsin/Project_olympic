@@ -1,7 +1,7 @@
 
 
 ###### I have a sample file "olympix_data.csv" at in my local machine at location "home/user/Desktop/test_data" #################################
-###### I will create a sample table 'olympic' and load the data from the sample file into this mysql table ##########
+###### I will create a sample table 'olympic' in mysql and load the data from the sample file into this mysql table ##########
 
 
 create table olympic ( athlete varchar(40), age int(11), country varchar(40), year int(11), close_date date, sport varchar(40), gold int(11), silver int(11), bronze int(11), total int(11) );
