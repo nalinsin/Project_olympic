@@ -5,8 +5,8 @@ sqoop import \
 --connect jdbc:mysql://localhost:3306/project \
 --username user \
 -P \
---table olympic \
---target-dir /hdfs/practice/olympic \
+--table=olympic \
+--target-dir /practice/olympic \
 --m 1
 
 
